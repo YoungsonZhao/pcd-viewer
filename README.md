@@ -31,7 +31,7 @@ This is the section where you would document those requirements.
 * GNU-5.4.0
 * cmake-3.5.1
 * pcl-1.9.1
-* vtk-6.2.0
+* vtk-6.3
 * Boost-1.58.0
 * glog
 ### Building
