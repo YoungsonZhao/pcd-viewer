@@ -1,0 +1,49 @@
+# Directory
+build
+log
+data
+env
+logs
+checkpoints
+logs-vgg16
+logs-vgg19
+checkpoints-vgg16
+checkpoints-vgg19
+.vscode
+../.vscode
+../../.vscode
+__pycache__
+
+# C++
+## Prerequisites
+*.d
+
+## Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+## Precompiled Headers
+*.gch
+*.pch
+
+## Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+## Fortran module files
+*.mod
+*.smod
+
+## Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+## Executables
+*.exe
+*.out
+*.app

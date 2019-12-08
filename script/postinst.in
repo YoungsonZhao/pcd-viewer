@@ -1,0 +1,8 @@
+#!/bin/sh
+
+# Make sure this script fails if any unexpected errors happen
+set -e
+
+sudo echo "image/x-photo-cd=pcd-viewer.desktop" >> /usr/share/applications/defaults.list
+
+# sudo echo "image/x-photo-cd=pcd-viewer.desktop" >> /home/ys/GitRepository/pcl/pcd-viewer/build/test.list

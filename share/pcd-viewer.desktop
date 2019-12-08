@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0.0
+Name=pcd-viewer
+Comment=Visualize PCD files on Ubuntu
+Path=/usr/bin
+Exec=pcd-viewer
+Icon=pcd-viewer
+Terminal=false
+Type=Application
+Categories=Application
